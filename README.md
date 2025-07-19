@@ -6,15 +6,15 @@ This repository contains implementations of fundamental **Data Structures and Al
 
 ## Projects Included
 
-### 1. Edmond’s Algorithm (Java)
-- Implementation of Edmond’s algorithm to find the **Minimum Arborescence** (minimum spanning tree for directed graphs) rooted at a specified vertex.
-- Uses a modified Bellman-Ford algorithm and supports input from a file.
-- Detects negative weight cycles and outputs edges in the minimum arborescence with the total weight.
-
-### 2. Dijkstra’s Algorithm (Python)
+### 1. Dijkstra’s Algorithm (Python)
 - Finds the shortest path from a single source node to all other nodes in a weighted graph with non-negative weights.
 - Utilizes a priority queue (min-heap) for efficient vertex selection.
 - Graph represented as an adjacency dictionary.
+
+### 2. Edmond’s Algorithm (Java)
+- Implementation of Edmond’s algorithm to find the **Minimum Arborescence** (minimum spanning tree for directed graphs) rooted at a specified vertex.
+- Uses a modified Bellman-Ford algorithm and supports input from a file.
+- Detects negative weight cycles and outputs edges in the minimum arborescence with the total weight.
 
 ### 3. Binary Search Tree (Python)
 - Implements a classic binary search tree with insertion, search, and traversal functionalities.
